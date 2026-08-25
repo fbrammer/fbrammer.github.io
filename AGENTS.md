@@ -1,6 +1,6 @@
 # BrammerIS Website Workspace
 
-**First step:** Before reading or following any other instructions in this file, change the active working directory to the folder that contains this `AGENT.md`. Treat that folder as the working directory for all subsequent work unless a later instruction explicitly tells you to move elsewhere.
+**First step:** Before reading or following any other instructions in this file, change the active working directory to the folder that contains this `AGENTS.md`. Treat that folder as the working directory for all subsequent work unless a later instruction explicitly tells you to move elsewhere.
 
 ## Communication standard
 
