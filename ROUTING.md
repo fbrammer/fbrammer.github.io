@@ -1,22 +1,33 @@
 # Router - BrammerIS/
 
-**Parent Router**: [[../ROUTING.md]]
+**Parent Router**: [ROUTING.md](../../ROUTING.md)
+**Format**: See [ROUTING_FORMAT.md](../../FileFolderMethod/ROUTING_FORMAT.md) (adjust relative depth as needed).
 
 ---
 
-## BrammerIS Files
+## Active
 
-| File                                         | Purpose                                 |
-| -------------------------------------------- | --------------------------------------- |
-| [[./CLAUDE.md]]                                | Bootstrap entrypoint                    |
-| [[./AGENTS.md]]                                 | Workspace instructions                  |
-| [[./SETUP.md]]                                 | Deployment and contact-form setup guide |
-| [[./index.html]]                               | Home/landing page                       |
-| `[[./about.html]]`                             | About page                              |
-| `[[./contact.html]]`                           | Contact page                            |
-| `[[./style.css]]`                              | Shared stylesheet                       |
-| `[[./favicon.svg]]`                            | Site icon                               |
-| [[./2026-06-13-website-modernization-plan.md]] | Visual modernization plan               |
+### Files
+
+| File | Description |
+|---|---|
+| [CLAUDE.md](./CLAUDE.md) | Bootstrap entrypoint |
+| [AGENTS.md](./AGENTS.md) | Workspace instructions |
+| [SETUP.md](./SETUP.md) | Deployment and contact-form setup guide |
+| [index.html](./index.html) | Home/landing page |
+| [about.html](./about.html) | About page |
+| [contact.html](./contact.html) | Contact page |
+| [style.css](./style.css) | Shared stylesheet |
+| [favicon.svg](./favicon.svg) | Site icon |
+| [2026-06-13-website-modernization-plan.md](./2026-06-13-website-modernization-plan.md) | Visual modernization plan |
+
+### Subfolders
+
+_No active subfolders._
+
+## Archived/Deleted
+
+_No archived or deleted entries._
 
 ---
 
